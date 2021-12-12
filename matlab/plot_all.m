@@ -1,0 +1,11 @@
+paper_plotCtrlData;
+paper_plotE2EDelay;
+paper_plotNumHops;
+paper_plotPathDuration;
+paper_plotPathDurationDistribution;
+paper_plotPdr;
+paper_plotCtrlDataPercentage;
+paper_plotCtrlDataChannelAccessPercentage;
+paper_plotCtrlComparison;
+
+close all;

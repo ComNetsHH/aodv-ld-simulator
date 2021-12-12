@@ -1,0 +1,40 @@
+{
+  "name": "aodv-ld-simulator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx babel-node ./src/main"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ComNetsHH/aodv-ld-simulator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ComNetsHH/aodv-ld-simulator/issues"
+  },
+  "homepage": "https://github.com/ComNetsHH/aodv-ld-simulator#readme",
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "ecef-projector": "^1.0.1",
+    "humanize-duration": "^3.25.1",
+    "moment": "^2.29.1",
+    "seeded-rand": "^2.0.1",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.2.3",
+    "@babel/core": "^7.3.4",
+    "@babel/node": "^7.2.2",
+    "@babel/preset-env": "^7.3.4",
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.14.1",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.16.0",
+    "jest": "^24.1.0",
+    "jest-cli": "^24.1.0"
+  }
+}

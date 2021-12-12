@@ -1,0 +1,9 @@
+{
+    "version": "2019",
+    "startTime": 0,
+    "sendInterval": 60000,
+    "transmissionRate": 100000,
+    "rreqTimeout": 5000,
+    "helloInterval": 10000,
+    "radioRange": 400000
+}
