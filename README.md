@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/437521462.svg)](https://zenodo.org/badge/latestdoi/437521462)
 # aodv-ld-simulator
 This repository contains the special purpose simulator to evaluate AODV-LD for real world aircraft traffic over the North Atlantic Corridor.
 
